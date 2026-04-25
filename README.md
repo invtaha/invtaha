@@ -18,6 +18,3 @@ also holder of several medals in the field of inventions from IFIA.
 ![Proteus](https://img.shields.io/badge/-Proteus-white?&logo=proteus&logoColor=00599c)
 ![Auto Desk Inventor](https://img.shields.io/badge/-AutoDesk%20Inventor-orange?&logo=autodesk&logoColor=black)
 ![Kali](https://img.shields.io/badge/-Kali-white?&logo=kalilinux&logoColor=red)
-
-
-![pic]("pic/pic1.jpg")

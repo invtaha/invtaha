@@ -20,4 +20,4 @@ also holder of several medals in the field of inventions from IFIA.
 ![Kali](https://img.shields.io/badge/-Kali-white?&logo=kalilinux&logoColor=red)
 
 
-![pic](pic/pic1.png)
+![pic]("pic/pic1.jpg")

@@ -8,7 +8,7 @@
 ### I am Taha
 
 > I'm a High school student proficient in mechatronics and Author of the "Mechatronics and AI" book.
-also holder of several medals in the field of inventions from IFIA.
+also holder of several medals in the field of inventions and robotics from IFIA and FIRA.
 
 ### Skills
 ![Python](https://img.shields.io/badge/-Python-306998?logo=python&logoColor=ffd43b) 
